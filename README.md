@@ -1,1 +1,1 @@
-# GRIN-Type-R
+# GRIN Type-R
