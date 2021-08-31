@@ -10,4 +10,4 @@
 - Cherry MX スイッチ直付け/kailh MX用ソケット両対応
 - [KMK firmware](https://github.com/KMKfw/kmk_firmware)
 ## 組み立て
- [ビルドガイド](https://policium.github.io/grin-type-r/)
+[ビルドガイド](https://policium.github.io/grin-type-r/)
