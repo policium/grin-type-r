@@ -9,4 +9,5 @@
 - バーガーマウント
 - Cherry MX スイッチ直付け/kailh MX用ソケット両対応
 - [KMK firmware](https://github.com/KMKfw/kmk_firmware)
-## [ビルドガイド](https://policium.github.io/grin-type-r/)
+## 組み立て
+ [ビルドガイド](https://policium.github.io/grin-type-r/)
