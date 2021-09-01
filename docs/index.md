@@ -25,8 +25,8 @@
 [遊舎工房](https://shop.yushakobo.jp/products/a01ps)  
 [TALP KEYBOARD](https://talpkeyboard.net/items/5e02c5405b120c792616bcf9)  
 - ダイオード(1N4148または1N4148W) … キースイッチと同じ個数  
-[秋月電子(1N4148)](https://akizukidenshi.com/catalog/g/gI-00941/)
-[秋月電子(1N4148W)](https://akizukidenshi.com/catalog/g/gI-07084/)
+[秋月電子(1N4148)](https://akizukidenshi.com/catalog/g/gI-00941/)  
+[秋月電子(1N4148W)](https://akizukidenshi.com/catalog/g/gI-07084/)  
 [遊舎工房(1N4148)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-01-100)  
 [遊舎工房(1N4148W)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)  
 [TALP KEYBOARD(1N4148)](https://talpkeyboard.net/items/59eadbffc8f22c15de001638)  
