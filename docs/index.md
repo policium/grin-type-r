@@ -29,5 +29,5 @@
 [遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=40429698678945)
 ※分割ではないスペースバーを利用する場合に必要です。ワイヤーのサイズが一般的ではないため自作するか遊舎工房で別途購入してください。  
 - ダイオード(1N4148または1N4148W) … キースイッチと同じ個数  
-[遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=40429698678945)
+[遊舎工房(1N4148W)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)
 [TALP KEYBOARD(1N4148)](https://talpkeyboard.net/items/59eadbffc8f22c15de001638)
