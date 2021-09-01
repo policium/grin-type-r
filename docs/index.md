@@ -18,7 +18,7 @@
 - 3D プリントシェル … 1個  
 
 ### キット以外に必要な部品
-- Raspberry Pi Pico  
+- Raspberry Pi Pico … 1個  
 [KSY](https://raspberry-pi.ksyic.com/main/index/pdp.id/634/pdp.open/634)  
 [スイッチサイエンス](https://www.switch-science.com/catalog/6900/)  
 [秋月電子](https://akizukidenshi.com/catalog/g/gK-16149/)  
