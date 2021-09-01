@@ -48,8 +48,8 @@
 [TALP KEYBOARD](https://talpkeyboard.net/?category_id=59be183f428f2d49120007b1)  
 - USB Type-C ケーブル … 1本  
 ※データ通信可能なもの  
-- Micro USB ケーブル … 1本
-※Picoの動作確認用、データ通信可能なもの
+- Micro USB ケーブル … 1本  
+※Picoの動作確認用、データ通信可能なもの  
 
 ## 必要な工具
 - はんだごて
