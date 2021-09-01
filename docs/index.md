@@ -42,5 +42,7 @@
 [遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=40429698678945)
 ※分割ではないスペースバーを利用する場合に必要です。ワイヤーのサイズが一般的ではないため自作するか遊舎工房で別途購入してください。  
 - キーキャップ(Cherry MX互換) … 選択した配列に合わせる
+[遊舎工房](https://shop.yushakobo.jp/collections/keycaps)  
+[TALP KEYBOARD](https://talpkeyboard.net/?category_id=59be183f428f2d49120007b1)  
 - USB Type-C ケーブル … 1本  
 ※データ通信可能なもの  
