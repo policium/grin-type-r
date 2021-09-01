@@ -13,13 +13,13 @@
 - チップ抵抗 … 2個  
 - アルミ足 … 2個
 - バンポン … 2個  
-### 拡張キット
+### 拡張キット(必要であれば)
 - 3D プリントシェル … 1個
 ### キット以外に必要な部品
 - キースイッチ(Cherry MX 互換) … 69～73個(選択した配列に合わせる)  
 [遊舎工房](https://shop.yushakobo.jp/collections/all-switches)  
 [TALP KEYBOARD](https://talpkeyboard.net/?category_id=59cf8860ed05e668db003f5d)  
-- Cherry MX スイッチ用PCBソケット … キースイッチと同じ個数(オプション)  
+- Cherry MX スイッチ用PCBソケット … キースイッチと同じ個数(キースイッチを直付けする場合は不要)  
 [遊舎工房](https://shop.yushakobo.jp/products/a01ps)  
 [TALP KEYBOARD](https://talpkeyboard.net/items/5e02c5405b120c792616bcf9)  
 - 2Uスタビライザー … 1～4個(選択した配列に合わせる)  
@@ -28,4 +28,6 @@
 - 3Uスタビライザー … 0～1個(選択した配列に合わせる)  
 [遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=40429698678945)
 ※分割ではないスペースバーを利用する場合に必要です。ワイヤーのサイズが一般的ではないため自作するか遊舎工房で別途購入してください。  
-
+- ダイオード(1N4148または1N4148W) … キースイッチと同じ個数  
+[遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=40429698678945)
+[TALP KEYBOARD(1N4148)](https://talpkeyboard.net/items/59eadbffc8f22c15de001638)
