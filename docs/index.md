@@ -17,10 +17,10 @@
 - 3D プリントシェル … 1個
 ### キット以外に必要な部品
 - Raspberry Pi Pico
-[KSY](https://raspberry-pi.ksyic.com/main/index/pdp.id/634/pdp.open/634)
-[スイッチサイエンス](https://www.switch-science.com/catalog/6900/)
-[秋月電子](https://akizukidenshi.com/catalog/g/gK-16149/)
-[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/raspberry-pi-pico)
+[KSY](https://raspberry-pi.ksyic.com/main/index/pdp.id/634/pdp.open/634)  
+[スイッチサイエンス](https://www.switch-science.com/catalog/6900/)  
+[秋月電子](https://akizukidenshi.com/catalog/g/gK-16149/)  
+[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/raspberry-pi-pico)  
 - キースイッチ(Cherry MX 互換) … 69～73個
 ※選択した配列に合わせる  
 [遊舎工房](https://shop.yushakobo.jp/collections/all-switches)  
