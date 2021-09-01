@@ -16,7 +16,8 @@
 ### 拡張キット(必要であれば)
 - 3D プリントシェル … 1個
 ### キット以外に必要な部品
-- キースイッチ(Cherry MX 互換) … 69～73個(選択した配列に合わせる)  
+- キースイッチ(Cherry MX 互換) … 69～73個
+※選択した配列に合わせる  
 [遊舎工房](https://shop.yushakobo.jp/collections/all-switches)  
 [TALP KEYBOARD](https://talpkeyboard.net/?category_id=59cf8860ed05e668db003f5d)  
 - Cherry MX スイッチ用PCBソケット … キースイッチと同じ個数
