@@ -14,7 +14,7 @@
 - アルミ足 … 2個
 - バンポン … 2個  
 ### 拡張キット(必要であれば)
-- 3D プリントシェル … 1個
+- 3D プリントシェル … 1個  
 ### キット以外に必要な部品
 - Raspberry Pi Pico  
 [KSY](https://raspberry-pi.ksyic.com/main/index/pdp.id/634/pdp.open/634)  
