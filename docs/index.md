@@ -19,7 +19,8 @@
 - キースイッチ(Cherry MX 互換) … 69～73個(選択した配列に合わせる)  
 [遊舎工房](https://shop.yushakobo.jp/collections/all-switches)  
 [TALP KEYBOARD](https://talpkeyboard.net/?category_id=59cf8860ed05e668db003f5d)  
-- Cherry MX スイッチ用PCBソケット … キースイッチと同じ個数(キースイッチを直付けする場合は不要)  
+- Cherry MX スイッチ用PCBソケット … キースイッチと同じ個数
+※キースイッチを直付けする場合は不要  
 [遊舎工房](https://shop.yushakobo.jp/products/a01ps)  
 [TALP KEYBOARD](https://talpkeyboard.net/items/5e02c5405b120c792616bcf9)  
 - ダイオード(1N4148または1N4148W) … キースイッチと同じ個数  
