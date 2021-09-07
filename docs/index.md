@@ -25,10 +25,10 @@
 [遊舎工房(1N4148)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-01-100)  
 [遊舎工房(1N4148W)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)  
 [TALP KEYBOARD(1N4148)](https://talpkeyboard.net/items/59eadbffc8f22c15de001638)  
-- 2Uスタビライザー … ※選択した配列に合わせる  
+- スタビライザー … ※選択した配列に合わせる  
 [遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=37665699430561)
 [TALP KEYBOARD](https://talpkeyboard.net/?category_id=5f884b9b3313d216eb50558a)  
-- 3Uスタビライザー … ※選択した配列に合わせる  
+- 3Uスタビライザー用ワイヤー … ※選択した配列に合わせる  
 分割ではないスペースバーを利用する場合に必要です。ワイヤーのサイズが一般的ではないため自作するか遊舎工房で別途購入してください。  
 [遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=40429698678945)
 - USB Type-C ケーブル(データ通信可能なもの) … 1本  
