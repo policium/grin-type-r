@@ -49,6 +49,7 @@ Picoの動作確認用
 - マスキングテープ
 - はんだ吸い取り線、はんだ吸い取り器
 - テスター(トラブル時の原因調査用)
+
 ## キット内容の確認
 - 基板(PCB) … 1枚  
 - トッププレート(FR-4) … 1枚  
@@ -65,6 +66,7 @@ Picoの動作確認用
 ### 拡張キット
 - 3D プリントシェル  
 Coming soon...  
+
 ## CircuitPythonのインストール
 [公式サイト](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)に従ってCircuitPythonをRaspberry Pi Picoにインストールします。  
 以下にWindows10での簡単な流れを記載します。  
