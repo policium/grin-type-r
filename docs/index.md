@@ -91,7 +91,7 @@ UF2ブートローダーの起動に成功するとPRI-RP2というドライブ�
 先ほどダウンロードしたUF2ファイルをPRI-RP2ドライブのルートにコピーします。コピー後はRaspberry Pi Picoが自動で再起動します。  
 CircuitPythonのインストールに成功していると、CIRCUITPYというドライブがマウントされます。
 
-## ６．標準ファームウェア（KMK Firmware）の書き込み
+## ６．標準ファームウェア（KMK Firmware）の書き込みと動作確認
 
 ## ７．Raspberry Pi Pico のはんだ付け
 
