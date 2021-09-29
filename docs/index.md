@@ -84,7 +84,7 @@ Coming soon...
 https://circuitpython.org/board/raspberry_pi_pico/ からUF2ファイルをダウンロードします。CircuitPython 7.0.0のJAPANESEで確認済みです。  
 
 ### UF2ブートローダーを起動
-Raspberry Pi PicoのBOOTSELボタンを押しながらUSBをPCと接続します。（初回時はBOOTSELボタンを押さなくてもUF2ブートローダーが立ち上がるようです）  
+Raspberry Pi PicoのBOOTSELボタンを押しながらUSBをPCと接続します。初回時はBOOTSELボタンを押さなくてもUF2ブートローダーが立ち上がるようです  
 UF2ブートローダーの起動に成功するとPRI-RP2というドライブがマウントされます。
 
 ### UF2ファイルの書き込み
