@@ -33,7 +33,7 @@
 [遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=40429698678945)
 - USB Type-C ケーブル(データ通信可能なもの) … 1本  
 - Micro USB ケーブル(データ通信可能なもの) … 1本  
-Picoの動作確認用  
+Picoの動作確認用
 ### 工具を準備する
 - はんだごて
 - はんだ
