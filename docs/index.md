@@ -63,9 +63,19 @@ Picoの動作確認用
 - アルミ足 … 2個
 - バンポン … 2個  
 ### 拡張キット
-- 3D プリントシェル … 1個  
+- 3D プリントシェル  
 Coming soon...  
 ## CircuitPythonのインストール
+[公式サイト](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)に従ってCircuitPythonをRaspberry Pi Picoにインストールします。  
+以下にWindows10での簡単な流れを記載します。  
+### UF2ファイルのダウンロード
+https://circuitpython.org/board/raspberry_pi_pico/ からUF2ファイルをダウンロードします。CircuitPython 7.0.0のJAPANESEで確認済みです。  
+### UF2ブートローダーを起動
+Raspberry Pi PicoのBOOTSELボタンを押しながらUSBをPCと接続します。（初回時はBOOTSELボタンを押さなくてもUF2ブートローダーが立ち上がるようです）  
+UF2ブートローダーの起動に成功するとPRI-RP2というドライブがマウントされます。  
+### UF2ファイルの書き込み
+先ほどダウンロードしたUF2ファイルをPRI-RP2ドライブのルートにコピーします。コピー後はRaspberry Pi Picoが自動で再起動します。  
+CircuitPythonのインストールに成功していると、CIRCUITPYというドライブがマウントされます。  
 ## 標準ファームウェア（KMK Firmware）の書き込み
 ## Raspberry Pi Pico のはんだ付け
 ## ダイオードのはんだ付け
