@@ -62,10 +62,9 @@ Picoの動作確認用
 - チップ抵抗 … 2個  
 - アルミ足 … 2個
 - バンポン … 2個  
-
 ### 拡張キット
 - 3D プリントシェル … 1個  
-Coming soon...
+Coming soon...  
 ## CircuitPythonのインストール
 ## 標準ファームウェア（KMK Firmware）の書き込み
 ## Raspberry Pi Pico のはんだ付け
