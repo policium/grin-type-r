@@ -1,8 +1,13 @@
 # GRIN Type-R 組み立て手順
+
 ## はじめに
+
 ## 注意事項
+
 ## 事前準備
+
 ### 配列を決める
+
 ### キット以外に必要な部品を準備する
 - Raspberry Pi Pico … 1個  
 [KSY](https://raspberry-pi.ksyic.com/main/index/pdp.id/634/pdp.open/634)  
@@ -44,6 +49,7 @@ Picoの動作確認用
 - ニッパー
 - プラスドライバー(No.0)
 - ティッシュ
+
 #### 他にあるといい物
 - シリコン作業マット
 - ウエス、キムワイプ、綿棒
@@ -63,30 +69,44 @@ Picoの動作確認用
 - USB Type-C コネクタ(レセプタクル) … 1個  
 - チップ抵抗 … 2個  
 - アルミ足 … 2個
-- バンポン … 2個  
+- バンポン … 2個
+
 ### 拡張キット
 - 3D プリントシェル  
-Coming soon...  
+Coming soon...
 
 ## CircuitPythonのインストール
 [公式サイト](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)に従ってCircuitPythonをRaspberry Pi Picoにインストールします。  
-以下にWindows10での簡単な流れを記載します。  
+以下にWindows10での簡単な流れを記載します。
+
 ### UF2ファイルのダウンロード
 https://circuitpython.org/board/raspberry_pi_pico/ からUF2ファイルをダウンロードします。CircuitPython 7.0.0のJAPANESEで確認済みです。  
+
 ### UF2ブートローダーを起動
 Raspberry Pi PicoのBOOTSELボタンを押しながらUSBをPCと接続します。（初回時はBOOTSELボタンを押さなくてもUF2ブートローダーが立ち上がるようです）  
-UF2ブートローダーの起動に成功するとPRI-RP2というドライブがマウントされます。  
+UF2ブートローダーの起動に成功するとPRI-RP2というドライブがマウントされます。
+
 ### UF2ファイルの書き込み
 先ほどダウンロードしたUF2ファイルをPRI-RP2ドライブのルートにコピーします。コピー後はRaspberry Pi Picoが自動で再起動します。  
-CircuitPythonのインストールに成功していると、CIRCUITPYというドライブがマウントされます。  
+CircuitPythonのインストールに成功していると、CIRCUITPYというドライブがマウントされます。
+
 ## 標準ファームウェア（KMK Firmware）の書き込み
+
 ## Raspberry Pi Pico のはんだ付け
+
 ## ダイオードのはんだ付け
+
 ## Cherry MX スイッチ用PCBソケットのはんだ付け
+
 ## スタビライザーの取り付け
+
 ## スイッチの取り付け
+
 ## 動作確認
+
 ## トッププレートとボトムプレートの取り付け
+
 ## キーキャップの取り付け
+
 ## 3D プリントシェルの取り付け
 Coming soon...
