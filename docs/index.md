@@ -10,11 +10,6 @@
 GRIN Type-RはANSI・ISO・JIS配列と３Uスペースバー・分割スペースバーの組み合わせを選べます。それぞれ必要なスイッチの数と必要なキーキャップが変わるため事前に決定する必要があります。
 
 ### キット以外に必要な部品を準備する
-- Raspberry Pi Pico … 1個  
-[KSY](https://raspberry-pi.ksyic.com/main/index/pdp.id/634/pdp.open/634)  
-[スイッチサイエンス](https://www.switch-science.com/catalog/6900/)  
-[秋月電子](https://akizukidenshi.com/catalog/g/gK-16149/)  
-[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/raspberry-pi-pico)  
 - キーキャップ(Cherry MX互換) … 選択した配列に合わせる  
 [遊舎工房](https://shop.yushakobo.jp/collections/keycaps)  
 [TALP KEYBOARD](https://talpkeyboard.net/?category_id=59be183f428f2d49120007b1)  
@@ -25,12 +20,6 @@ GRIN Type-RはANSI・ISO・JIS配列と３Uスペースバー・分割スペー�
 キースイッチを直付けする場合は不要  
 [遊舎工房](https://shop.yushakobo.jp/products/a01ps)  
 [TALP KEYBOARD](https://talpkeyboard.net/items/5e02c5405b120c792616bcf9)  
-- ダイオード(1N4148または1N4148W) … ※選択した配列に合わせる  
-[秋月電子(1N4148)](https://akizukidenshi.com/catalog/g/gI-00941/)  
-[秋月電子(1N4148W)](https://akizukidenshi.com/catalog/g/gI-07084/)  
-[遊舎工房(1N4148)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-01-100)  
-[遊舎工房(1N4148W)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)  
-[TALP KEYBOARD(1N4148)](https://talpkeyboard.net/items/59eadbffc8f22c15de001638)  
 - スタビライザー … ※選択した配列に合わせる  
 [遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=37665699430561)
 [TALP KEYBOARD](https://talpkeyboard.net/?category_id=5f884b9b3313d216eb50558a)  
@@ -63,12 +52,11 @@ Picoの動作確認用
 - トッププレート(FR-4) … 1枚  
 - スイッチプレート(アルミ) … 1枚  
 - ボトムプレート(FR-4) … 1枚  
+- ダイオード(1N4148) … 75個
 - M2ネジ … 16個  
 - スペーサー(丸型両メネジ) … 8個  
 - スペーサー(丸型中空) … 8個  
 - ゴムワッシャー … 32個  
-- USB Type-C コネクタ(レセプタクル) … 1個  
-- チップ抵抗 … 2個  
 - アルミ足 … 2個
 - バンポン … 2個
 
