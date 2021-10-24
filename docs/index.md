@@ -77,30 +77,18 @@ Coming soon...
 
 ### PCに接続し認識されることを確認する
 
+USBケーブルで基盤とPCを接続します。「CIRCUITPY」というドライブが認識されることを確認します。
+
 ### ピンセット等で端子を短絡させ入力されることを確認する
 
-出荷状態ではキー配列がUS配列3Uスペースバーになっています。画像の端子間をピンセット等で短絡させ「1」が入力されることを確認します。
+![IMG_20211024_184022__01__01](https://user-images.githubusercontent.com/3132296/138598486-49c41782-5ef5-4160-a78a-502d95e38bf3.jpg)
+ピンセット等の導体で写真の2点を短絡して「1」が入力されることを確認してください。入力されない場合は、Boothショップサイトのトップページ上部にある、メールアイコンよりメッセージ下さい。
 
-## ５．CircuitPythonのインストール
-[公式サイト](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)に従ってCircuitPythonをRaspberry Pi Picoにインストールします。  
-以下にWindows10での簡単な流れを記載します。
+※出荷状態ではキー配列がUS配列3Uスペースバーになっています。
 
-### UF2ファイルのダウンロード
-https://circuitpython.org/board/raspberry_pi_pico/ からUF2ファイルをダウンロードします。CircuitPython 7.0.0のJAPANESEで確認済みです。  
+## ６．ダイオードのはんだ付け
 
-### UF2ブートローダーを起動
-Raspberry Pi PicoのBOOTSELボタンを押しながらUSBをPCと接続します。初回時はBOOTSELボタンを押さなくてもUF2ブートローダーが立ち上がるようです  
-UF2ブートローダーの起動に成功するとPRI-RP2というドライブがマウントされます。
 
-### UF2ファイルの書き込み
-先ほどダウンロードしたUF2ファイルをPRI-RP2ドライブのルートにコピーします。コピー後はRaspberry Pi Picoが自動で再起動します。  
-CircuitPythonのインストールに成功していると、CIRCUITPYというドライブがマウントされます。
-
-## ６．標準ファームウェア（KMK Firmware）の書き込みと動作確認
-
-## ７．Raspberry Pi Pico のはんだ付け
-
-## ８．ダイオードのはんだ付け
 
 ## ９．Cherry MX スイッチ用PCBソケットのはんだ付け
 
