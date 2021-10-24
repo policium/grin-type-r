@@ -170,7 +170,7 @@ D67不要
 ![IMG_20211024_212044__01](https://user-images.githubusercontent.com/3132296/138603678-1e5cce81-fcb9-41f5-9264-fee6a1c8ebae.jpg)
 
 袋➃のゴムワッシャを"2"枚ずつスペーサーに刺します。次に袋➂のスペーサー太を刺します。  
-![IMG_20211024_212158__01](https://user-images.githubusercontent.com/3132296/138603821-a8e88bc6-4702-40da-89e2-c6be5727c03e.jpg)
+![IMG_20211024_212158__01](https://user-images.githubusercontent.com/3132296/138603821-a8e88bc6-4702-40da-89e2-c6be5727c03e.jpg)  
 スペーサーの面がつらいちにならない場合、スペーサーの枚数や浮きを確認してください。
 
 ## １２．ボトムプレートに足を取り付け
