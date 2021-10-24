@@ -81,15 +81,36 @@ USBケーブルで基盤とPCを接続します。「CIRCUITPY」というドラ
 
 ### ピンセット等で端子を短絡させ入力されることを確認する
 
-![IMG_20211024_184022__01__01](https://user-images.githubusercontent.com/3132296/138599214-30fb9534-d96f-4811-8a05-1391d92d1264.jpg)
+![IMG_20211024_184022__01](https://user-images.githubusercontent.com/3132296/138599389-a23cbd9f-09ef-4e5a-82c7-489b2a3be333.jpg)
 ピンセット等の導体で写真の2点を短絡して「1」が入力されることを確認してください。入力されない場合は、Boothショップサイトのトップページ上部にある、メールアイコンよりメッセージ下さい。
 
 ※出荷状態ではキー配列がUS配列3Uスペースバーになっています。
 
 ## ６．ダイオードのはんだ付け
 
-![IMG_20211024_185426__01](https://user-images.githubusercontent.com/3132296/138599227-37013b34-5b52-49ea-a04e-a98c5a1ef5c5.jpg)
+- JIS配列＆3Uスペース（スイッチ直付け）  
+D45、D48、D66、D68は不要  
+- JIS配列＆3Uスペース（ソケット）  
+D30、D48、D66、D68は不要  
+- JIS配列＆スプリットスペース（スイッチ直付け）  
+D45、D48、D67は不要  
+- JIS配列＆スプリットスペース（ソケット）  
+D30、D48、D67は不要  
 
+ダイオードの足を曲げます。
+![IMG_20211024_185426__01](https://user-images.githubusercontent.com/3132296/138599397-515d71bd-303b-48e0-98fb-fd6c56f75fc6.jpg)
+
+シルクの向きとダイオードの向きを合わせてセットします。
+![IMG_20211024_185451__01](https://user-images.githubusercontent.com/3132296/138599443-0b524bb9-5166-402d-975e-d0db50a08e34.jpg)
+
+ダイオードをマスキングテープで固定します。
+![IMG_20211024_185700__01](https://user-images.githubusercontent.com/3132296/138599491-e0bae086-d260-48b1-b428-10e3a5f24a5f.jpg)
+
+裏返してはんだ付けします。
+![IMG_20211024_185829__01](https://user-images.githubusercontent.com/3132296/138599533-31aaaf06-3e98-4a53-ac3d-a49286c5c794.jpg)
+
+足をニッパーで切断し、フラックスクリーナーで周囲を奇麗にします。
+![IMG_20211024_190343__01](https://user-images.githubusercontent.com/3132296/138599571-aa82a8cc-f0f4-4994-95de-8e2329e0151e.jpg)
 
 ## ９．Cherry MX スイッチ用PCBソケットのはんだ付け
 
