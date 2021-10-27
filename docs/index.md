@@ -45,7 +45,7 @@ GRIN Type-RはANSI・ISO・JIS配列と単体スペースバー・分割スペ�
 [遊舎工房](https://shop.yushakobo.jp/products/a01ps)  
 [TALP KEYBOARD](https://talpkeyboard.net/items/5e02c5405b120c792616bcf9)  
 - スタビライザー(PCBマウント) … ※選択した配列に合わせる  
-[遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=37665699430561)
+[遊舎工房](https://shop.yushakobo.jp/products/a0500st?variant=37665699430561)  
 [TALP KEYBOARD](https://talpkeyboard.net/?category_id=5f884b9b3313d216eb50558a)  
 - 3Uスタビライザー用ワイヤー … ※選択した配列に合わせる  
 分割ではないスペースバーを利用する場合に必要です。ワイヤーのサイズが一般的ではないため自作するか遊舎工房で別途購入してください。  
