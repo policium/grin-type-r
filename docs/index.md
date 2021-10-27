@@ -197,4 +197,5 @@ USBケーブルでPCと接続し動作確認します。必要であればソー
 ## Ａ１．付録
 
 トラブルシュートおよびファームウェアの改造にお役立てください。  
-![schematic](https://user-images.githubusercontent.com/3132296/139057237-7d178b41-f62e-4b44-b879-a3ca5ce0f19e.jpg)
+![schematic](https://user-images.githubusercontent.com/3132296/139060252-92dcc313-b126-41d9-8f86-858f542e6534.jpg)
+
