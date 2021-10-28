@@ -217,5 +217,10 @@ USBケーブルでPCと接続し動作確認します。必要であればソー
 ## Ａ１．付録
 
 トラブルシュートおよびファームウェアの改造にお役立て下さい。  
+
+回路図  
 ![schematic](https://user-images.githubusercontent.com/3132296/139060252-92dcc313-b126-41d9-8f86-858f542e6534.jpg)
+
+Circuit Pythonで問題が発生した時のヒント  
+https://learn.adafruit.com/welcome-to-circuitpython/troubleshooting
 
