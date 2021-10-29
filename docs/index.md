@@ -230,11 +230,15 @@ import storage
 import supervisor
 
 gp8 = digitalio.DigitalInOut(board.GP8)
-gp8 = digitalio.DigitalInOut(board.GP8)
-gp8 = digitalio.DigitalInOut(board.GP8)
-gp8 = digitalio.DigitalInOut(board.GP8)
-gp8 = digitalio.DigitalInOut(board.GP8)
+gp16 = digitalio.DigitalInOut(board.GP16)
+gp17 = digitalio.DigitalInOut(board.GP17)
+gp18 = digitalio.DigitalInOut(board.GP18)
+gp19 = digitalio.DigitalInOut(board.GP19)
 gp8.pull = digitalio.Pull.UP
+gp16.pull = digitalio.Pull.UP
+gp17.pull = digitalio.Pull.UP
+gp18.pull = digitalio.Pull.UP
+gp19.pull = digitalio.Pull.UP
 if gp8.value:
     storage.disable_usb_drive()
 
