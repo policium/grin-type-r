@@ -218,9 +218,32 @@ USBケーブルでPCと接続し動作確認します。必要であればソー
 
 トラブルシュートおよびファームウェアの改造にお役立て下さい。  
 
-回路図  
+### USBストレージの無効化 　
+
+boot.pyを以下の内容に書き換えてください。左上のキーを押しながらPCに接続すると元の様にストレージとして認識されます。
+注意!失敗するとREPLから復旧するかファームウェアを再インストールする必要があります。
+boot.py
+```
+import board
+import digitalio
+import storage
+import supervisor
+
+gp8 = digitalio.DigitalInOut(board.GP8)
+gp8 = digitalio.DigitalInOut(board.GP8)
+gp8 = digitalio.DigitalInOut(board.GP8)
+gp8 = digitalio.DigitalInOut(board.GP8)
+gp8 = digitalio.DigitalInOut(board.GP8)
+gp8.pull = digitalio.Pull.UP
+if gp8.value:
+    storage.disable_usb_drive()
+
+supervisor.set_next_stack_limit(4096 + 4096)
+```
+
+### 回路図  
 ![schematic](https://user-images.githubusercontent.com/3132296/139060252-92dcc313-b126-41d9-8f86-858f542e6534.jpg)
 
-Circuit Pythonで問題が発生した時のヒント  
+### Circuit Pythonで問題が発生した時のヒント  
 https://learn.adafruit.com/welcome-to-circuitpython/troubleshooting
 
