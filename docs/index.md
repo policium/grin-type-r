@@ -225,23 +225,45 @@ boot.pyを以下の内容に書き換えてください。左上のキーを押�
 
 boot.py
 ```
-import board
-import digitalio
 import storage
 import supervisor
 
-gp8 = digitalio.DigitalInOut(board.GP8)
-gp16 = digitalio.DigitalInOut(board.GP16)
-gp17 = digitalio.DigitalInOut(board.GP17)
-gp18 = digitalio.DigitalInOut(board.GP18)
-gp19 = digitalio.DigitalInOut(board.GP19)
-gp8.pull = digitalio.Pull.UP
-gp16.pull = digitalio.Pull.UP
-gp17.pull = digitalio.Pull.UP
-gp18.pull = digitalio.Pull.UP
-gp19.pull = digitalio.Pull.UP
-if gp8.value:
-    storage.disable_usb_drive()
+storage.disable_usb_drive()
+supervisor.set_next_stack_limit(4096 + 4096)
+```
+
+### USBストレージの再有効化 　
+
+[MU Editorダウンロード](https://codewith.mu/en/download)  
+インストールしてください。  
+
+GRIN Type-RをPCに接続します。  
+Mu Editorを起動します。  
+ツールバーからシリアルボタンをクリックします。  
+![mu1](https://user-images.githubusercontent.com/3132296/139570715-863a8d0e-bd0e-4078-bd58-74653904e181.png)
+
+REPLペインをクリックし「Ctrl+C」を押下します。  
+![mu2](https://user-images.githubusercontent.com/3132296/139570725-34043950-0abd-4ff3-8fd7-a7b0392efc4c.png)
+
+「Enter」を押下します。  
+![mu3](https://user-images.githubusercontent.com/3132296/139570730-8251d9de-786d-4ed5-adbd-70f82e0f3e97.png)
+
+以下のコードを直接コピー＆ペーストします。（手入力ではなく）  
+```
+import os
+import storage
+storage.remount('/', readonly=False)
+os.remove('boot.py')
+```
+
+![mu4](https://user-images.githubusercontent.com/3132296/139570737-318f5c8b-f691-4309-be04-386b7738ed17.png)
+
+GRIN Type-RのUSBを挿抜して再接続するとUSBドライブとして認識するようになります。  
+ドライブからboot.pyが消えているため以下のコードでboot.pyを作成します。  
+
+boot.py
+```
+import supervisor
 
 supervisor.set_next_stack_limit(4096 + 4096)
 ```
