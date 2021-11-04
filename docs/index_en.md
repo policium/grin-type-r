@@ -49,7 +49,7 @@ Not required if you want to install the keyswitch directly.
 [TALP KEYBOARD](https://talpkeyboard.net/?category_id=5f884b9b3313d216eb50558a)  
 - Wire for 3U stabilizer ... * Match the selected layout.  
 This is required when using a space bar that is not split. The size of the wire is not common, so please make your own or purchase separately from Yushakobo.  
-[Yushakobo](https://shop.yushakobo.jp/products/a0500st?variant=40429698678945)
+[YUSHAKOBO](https://shop.yushakobo.jp/products/a0500st?variant=40429698678945)
 - USB Type-C cable (for data communication) ... 1pc  
 - Micro USB cable (for data communication) ... 1pc  
 To check Pico's operation.
