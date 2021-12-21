@@ -74,31 +74,31 @@ To check Pico's operation
 ## 2. Check the contents of the kit
 Please make sure you have the following items.
 If any of these items are missing, please send us a message using the email icon at the top of the Booth store website.
-- Bag➀  
+- Bag1  
     - Board (PCB) ... 1 piece  
     - Top Plate (FR-4) ... 1 piece  
     - Switch Plate (Aluminum or FR-4) ... 1 piece  
     - Bottom Plate (FR-4) ... 1 piece  
-- Bag➁  
+- Bag2  
     - Diode (1N4148) ... 75 pcs
-- Bag➂  
+- Bag3  
     - M2 screw (silver) ... 6 pcs
     - Short spacers (round, both female threads) ... 3  
-- Bag➃  
+- Bag4  
     - M2 screw (black) ... 16 pcs.  
     - Long spacer (round female screw) ... 8 pcs  
     - Spacer thick (round, hollow) ... 8 pcs  
-- Bag➄  
+- Bag5  
     - Plastic washer ... 8 pcs  
     - Rubber washer ... 24 pcs  
-- Bag ➅  
+- Bag6  
     - Aluminum feet ... 2 pcs
     - M4 screw ... 2 pcs
     - Rubber feet ... 2 pcs
 
 ## 3. Initial Operation Check
 
-Remove the board from the bag➀.
+Remove the board from the bag1.
 The shipped board has the ANSI version of PRK Firmware already written on it. This is the first step in confirming that it works properly.  
 
 ### Connect the board to the PC and make sure it is recognized.
@@ -107,14 +107,14 @@ Connect the board to the PC with a USB cable. Connect the board to the PC with a
 
 ### Connect the board to the PC with a USB cable.
 
-[IMG_20211024 [IMG_20211024_184022__01](https://user-images.githubusercontent.com/3132296/138600349-d7a1206c-a3c7-4663-90a5-6ad1bfbf6f9c.jpg)  
+![IMG_20211024_184022__01](https://user-images.githubusercontent.com/3132296/138600349-d7a1206c-a3c7-4663-90a5-6ad1bfbf6f9c.jpg)  
 Short-circuit the two points in the picture with tweezers or other conductors, and check that "1" is input. If it does not, please send us a message from the mail icon at the top of the Booth store website.
 
 The key layout is set to ANSI in the shipping state.  
 
 ## 4. Soldering the diode
 
-Attach the diodes from the bag➁ to the board.  
+Attach the diodes from the bag2 to the board.  
 
 Attention!  
 Depending on the key layout and the way the switch is installed, there may be positions where the diode does not need to be installed.  
@@ -128,45 +128,44 @@ Bend the legs of the diode.
 Bend the legs of the diode. [IMG_20211024_185426__01](https://user-images.githubusercontent.com/3132296/138599397-515d71bd-303b-48e0-98fb-fd6c56f75fc6.jpg)
 
 Align the direction of the silk with the direction of the diode and set it.  
-! [IMG_20211024_185451__01](https://user-images.githubusercontent.com/3132296/138599443-0b524bb9-5166-402d-975e-d0db50a08e34.jpg)
+![IMG_20211024_185451__01](https://user-images.githubusercontent.com/3132296/138599443-0b524bb9-5166-402d-975e-d0db50a08e34.jpg)
 
 Fix the diode with masking tape.  
-! [IMG_20211024_185700__01](https://user-images.githubusercontent.com/3132296/138599491-e0bae086-d260-48b1-b428-10e3a5f24a5f.jpg)
+![IMG_20211024_185700__01](https://user-images.githubusercontent.com/3132296/138599491-e0bae086-d260-48b1-b428-10e3a5f24a5f.jpg)
 
 Turn it over and solder it.  
-! [IMG_20211024_185829__01](https://user-images.githubusercontent.com/3132296/138599533-31aaaf06-3e98-4a53-ac3d-a49286c5c794.jpg)
+![IMG_20211024_185829__01](https://user-images.githubusercontent.com/3132296/138599533-31aaaf06-3e98-4a53-ac3d-a49286c5c794.jpg)
 
 Cut off the legs with nippers and clean up the surrounding area with a flux cleaner.  
-! [IMG_20211024_190343__01](https://user-images.githubusercontent.com/3132296/138599571-aa82a8cc-f0f4-4994-95de-8e2329e0151e.jpg)
+![IMG_20211024_190343__01](https://user-images.githubusercontent.com/3132296/138599571-aa82a8cc-f0f4-4994-95de-8e2329e0151e.jpg)
 
 ## 5. Solder the PCB socket for the switch
 
 If you want to mount the switch directly, skip this step.
 
 Place the socket and solder it. Solder the socket while holding it with tweezers to prevent it from floating.  
-[IMG_20211024 [IMG_20211024_191023__01](https://user-images.githubusercontent.com/3132296/138601716-b302675a-c47f-4df0-85e3-4094c506b9ff.jpg)
+![IMG_20211024_191023__01](https://user-images.githubusercontent.com/3132296/138601716-b302675a-c47f-4df0-85e3-4094c506b9ff.jpg)
 
 The orientation shown in the picture below is wrong.  
-! [IMG_20211024_190934__01](https://user-images.githubusercontent.com/3132296/138602574-db98be8a-e68b-4710-9918-185e2c19d15a.jpg)
+![IMG_20211024_190934__01](https://user-images.githubusercontent.com/3132296/138602574-db98be8a-e68b-4710-9918-185e2c19d15a.jpg)
 
 ## 6. Installing the stabilizer
 
 Install the 2U stabilizer for backspace, shift key, enter key and ISO enter of 2U or larger size.  
-! [img_20211024_201044__01](https://user-images.githubusercontent.com/3132296/138602682-9a904d91-1ccc-49bf-b053-58f890d8d942.jpg)
+![img_20211024_201044__01](https://user-images.githubusercontent.com/3132296/138602682-9a904d91-1ccc-49bf-b053-58f890d8d942.jpg)
 
 Install the 3U wire stabilizer for the 3U space bar.  
 
 ## 7. Screw in the switch plate and the board.
 
-Screw the switch plate to the board in three places with the bag➂ screws and spacers.  
-! [img_20211025_012308](https://user-images.githubusercontent.com/3132296/138603250-d2de6202-2906-4cfb-a936-b46ea861370a.jpg)
+Screw the switch plate to the board in three places with the bag3 screws and spacers.  
+![img_20211025_012308](https://user-images.githubusercontent.com/3132296/138603250-d2de6202-2906-4cfb-a936-b46ea861370a.jpg)
 
-! [img_20211024_202016__01](https://user-images.githubusercontent.com/3132296/138603264-aa535f03-cefc-45b1-8bed-a865e45260f8.jpg)
+![img_20211024_202016__01](https://user-images.githubusercontent.com/3132296/138603264-aa535f03-cefc-45b1-8bed-a865e45260f8.jpg)
 
 ## 8. Install the switch.
 
 For sockets, stick the switch in, being careful not to bend the switch terminals.  
 For direct mounting, solder the switch from the back. When soldering, be careful not to let the switch float.  
-[IMG_20211024 [IMG_20211024_204917__01](https://user-images.githubusercontent.com/3132)
+![IMG_20211024_204917__01](https://user-images.githubusercontent.com/3132)
 
-Translated with www.DeepL.com/Translator (free version)
