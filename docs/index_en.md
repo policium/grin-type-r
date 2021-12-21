@@ -260,18 +260,20 @@ Press "Enter".
 ![mu3](https://user-images.githubusercontent.com/3132296/139570730-8251d9de-786d-4ed5-adbd-70f82e0f3e97.png)
 
 Copy and paste the following code directly. (Don't type it in manually)  
+
 ````
 import os
 import storage
 storage.remove('/', readonly=False)
 os.remove('boot.py')
-```!
+```
 
 ![mu4](https://user-images.githubusercontent.com/3132296/139570737-318f5c8b-f691-4309-be04-386b7738ed17.png)
 
 If you plug and unplug the USB of the GRIN Type-R and reconnect it, it will be recognized as a USB drive.  
 Since boot.py is missing from the drive, create boot.py with the following code.  
 
+```
 boot.py
 The following code will create boot.py
 import supervisor
