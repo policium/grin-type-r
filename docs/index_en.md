@@ -31,7 +31,7 @@ A1. Appendix
 ## Determine the array
 For GRIN Type-R, you can choose a combination of ANSI, ISO, JIS layout, single space bar and split space bar. Since the number of switches and keycaps required for each of them varies, it is necessary to decide in advance.
 
-! [layout](https://user-images.githubusercontent.com/3132296/146913502-217302a7-877f-430a-b0cc-7842f74d1557.png)
+![layout](https://user-images.githubusercontent.com/3132296/146913502-217302a7-877f-430a-b0cc-7842f74d1557.png)
 
 ### Prepare the parts you will need in addition to the kit.
 - Keycaps (Cherry MX compatible) ... to match the selected layout.  
