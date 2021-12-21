@@ -125,7 +125,6 @@ Caution!
 Some diodes are oriented differently from others. Please look at the silk carefully and mount them correctly.  
 
 Bend the legs of the diode.  
-Bend the legs of the diode.  
 ![IMG_20211024_185426__01](https://user-images.githubusercontent.com/3132296/138599397-515d71bd-303b-48e0-98fb-fd6c56f75fc6.jpg)
 
 Align the direction of the silk with the direction of the diode and set it.  
