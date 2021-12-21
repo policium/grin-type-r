@@ -9,6 +9,6 @@
 - 3Uまたは分割スペースバー対応
 - バーガーマウント
 - Cherry MXスイッチ直付け/kailh MX用ソケット両対応
-- [KMK firmware](https://github.com/KMKfw/kmk_firmware)対応
+- [PRK Firmware](https://github.com/picoruby/prk_firmware)および[KMK firmware](https://github.com/KMKfw/kmk_firmware)対応
 ## 組み立て
 [ビルドガイド](https://policium.github.io/grin-type-r/)
