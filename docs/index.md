@@ -205,7 +205,7 @@ USBケーブルで基板とPCを接続します。「PRKFirmware」というド�
 ## １３．動作確認
 
 USBケーブルでPCと接続し動作確認します。必要であればソースコードを修正しキー配列を修正します。
-※執筆中
+[サンプル](https://github.com/policium/grin-type-r/tree/main/firmware)を参考に修正してください。
 
 ## １４．３Ｄプリントケース
 
