@@ -191,7 +191,7 @@ USBケーブルで基板とPCを接続します。「PRKFirmware」というド�
 袋➅のアルミ足とゴム足をボトムプレートに取り付けます。  
 アルミ足はM4ネジでボトムプレートに取り付けます。
 赤丸はゴム足の貼り付け位置です。  
-![IMG_20211025_014513](https://user-images.githubusercontent.com/3132296/138604792-a759b5c9-d56e-4aab-8051-d91510aab9e7.jpg)
+![feet layout](https://user-images.githubusercontent.com/3132296/146915719-ce421d2b-c62c-4877-b785-19031218be0e.jpg)
 
 ## １１．ボトムプレートの取り付け
 
@@ -205,6 +205,24 @@ USBケーブルで基板とPCを接続します。「PRKFirmware」というド�
 
 USBケーブルでPCと接続し動作確認します。必要であればソースコードを修正しキー配列を修正します。
 ※執筆中
+
+## １４．３Ｄプリントケース
+
+BOOTHにログインした状態で購入履歴より該当の注文詳細にアクセスし、3Dデータをダウンロードしてください。  
+[JLCPCB](https://jlcpcb.com/)か[WENEXT](https://www.wenext.com/)か[DMM.make](https://make.dmm.com/print/)で印刷できます。  
+もちろんご自宅の３Ｄプリンタで印刷することもできます。  
+
+注意！  
+こちらの3Dデータはサポート対象外とさせていただきます。改変を含め自由にご利用いただいて構いませんが、派生データも含め再頒布はご遠慮ください。  
+
+トッププレート側から被せスナップフィット（ツメ）をひっかけます。
+外れにくいように2mmの結束バンドでケースと柱をつなぎます。  
+
+![case snap](https://user-images.githubusercontent.com/3132296/146917573-4bb67aa8-68a3-4ec0-9f66-ae6a32ada06e.jpg)
+
+塗装して楽しむこともできます！  
+
+![case](https://user-images.githubusercontent.com/3132296/146917817-20f95171-bd59-45ae-a27f-70b97efd56f8.jpg)
 
 ## Ａ１．付録
 
