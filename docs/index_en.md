@@ -261,7 +261,7 @@ Press "Enter".
 
 Copy and paste the following code directly. (Don't type it in manually)  
 
-````
+```
 import os
 import storage
 storage.remove('/', readonly=False)
