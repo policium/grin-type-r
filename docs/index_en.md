@@ -50,8 +50,8 @@ Not required if you want to install the key switch directly.
 - Wire for 3U stabilizer ... * Matches the selected array  
 This is required if you want to use a space bar that is not split. The wire size is not common, so please make your own or purchase separately from Yusha Kobo.  
 [Yusha Kobo](https://shop.yushakobo.jp/products/a0500st?variant=40429698678945)
-- USB Type-C cable (for data communication) ... 1  
-- Micro USB cable (for data communication) ... 1pc  
+- USB Type-C cable (for data communication) ... 1 pc  
+- Micro USB cable (for data communication) ... 1 pc  
 To check Pico's operation
 
 ### Prepare the tools
@@ -75,15 +75,15 @@ To check Pico's operation
 Please make sure you have the following items.
 If any of these items are missing, please send us a message using the email icon at the top of the Booth store website.
 - Bag1  
-    - Board (PCB) ... 1 piece  
-    - Top Plate (FR-4) ... 1 piece  
-    - Switch Plate (Aluminum or FR-4) ... 1 piece  
-    - Bottom Plate (FR-4) ... 1 piece  
+    - Board (PCB) ... 1 pc  
+    - Top Plate (FR-4) ... 1 pc  
+    - Switch Plate (Aluminum or FR-4) ... 1 pc  
+    - Bottom Plate (FR-4) ... 1 pc  
 - Bag2  
     - Diode (1N4148) ... 75 pcs
 - Bag3  
     - M2 screw (silver) ... 6 pcs
-    - Short spacers (round, both female threads) ... 3  
+    - Short spacers (round, both female threads) ... 3 pcs  
 - Bag4  
     - M2 screw (black) ... 16 pcs.  
     - Long spacer (round female screw) ... 8 pcs  
