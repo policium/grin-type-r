@@ -163,9 +163,124 @@ Screw the switch plate to the board in three places with the bag3 screws and spa
 
 ![img_20211024_202016__01](https://user-images.githubusercontent.com/3132296/138603264-aa535f03-cefc-45b1-8bed-a865e45260f8.jpg)
 
-## 8. Install the switch.
+## 8. Installing the switch
 
-For sockets, stick the switch in, being careful not to bend the switch terminals.  
+In the case of a socket, stick the switch into the socket, taking care not to bend the switch terminals.  
 For direct mounting, solder the switch from the back. When soldering, be careful not to let the switch float.  
-![IMG_20211024_204917__01](https://user-images.githubusercontent.com/3132)
+![IMG_20211024_204917__01](https://user-images.githubusercontent.com/3132296/138603407-edfcd077-62f7-4b1f-a821-9fadd0bea6f5.jpg)
+
+## 9. Attach the top plate and the board
+
+Attach the screws and spacer lengths from the bag4 to the top plate in eight places.  
+![img_20211024_211905__01](https://user-images.githubusercontent.com/3132296/138603512-0a3e8f68-802c-4a07-bf53-0dec95cf8f33.jpg)
+
+Stick the bag5's plastic washers into the spacers one by one. Next, stick the bag5's rubber washers into the spacer one at a time.  
+Caution!  
+The hard one is the plastic washer and the soft one is the rubber washer.  
+![IMG_20211024_211924__01](https://user-images.githubusercontent.com/3132296/138603569-339cebf9-9d9b-4629-9fc4-827d561a5353.jpg)
+
+Stick the switch plate screwed to the board into the spacer.  
+![IMG_20211024_212044__01](https://user-images.githubusercontent.com/3132296/138603678-1e5cce81-fcb9-41f5-9264-fee6a1c8ebae.jpg)
+
+Stick "2" rubber washers from the bag5 onto each spacer. Next, stick the thick spacer from the bag4.  
+![IMG_20211024_212158__01](https://user-images.githubusercontent.com/3132296/138603821-a8e88bc6-4702-40da-89e2-c6be5727c03e.jpg)  
+If the surface of the spacer is not flush, check the number of spacers and the float.  
+
+## 10. Attach the feet to the bottom plate.
+
+Attach the aluminum feet and rubber feet from the bag6 to the bottom plate.  
+Attach the aluminum feet to the bottom plate with M4 screws.
+The red circle is the position for attaching the rubber feet.  
+![FEET layout](https://user-images.githubusercontent.com/3132296/146915719-ce421d2b-c62c-4877-b785-19031218be0e.jpg)
+
+## 11. Attaching the bottom plate
+
+Screw the bottom plate to the main unit in 8 places with the screws of bag4.
+
+## 12. Attaching the key cap
+
+Attach the key cap to the switch.
+
+## 13. Operation check
+
+Connect to a PC with a USB cable and check the operation. If necessary, modify the source code to correct the key layout.  
+Please refer to [sample](https://github.com/policium/grin-type-r/tree/main/firmware) for modification.
+
+## 14. 3D printed case
+
+While logged in to BOOTH, access the relevant order details from your purchase history and download the 3D data.  
+You can print it at [JLCPCB](https://jlcpcb.com/), [WENEXT](https://www.wenext.com/), or [DMM.make](https://make.dmm.com/print/). HP MJF PA12 Nylon is recommended. HP MJF PA12 Nylon is recommended. 
+Of course, you can also print it with your own 3D printer at home.  
+
+Note!  
+This 3D data is not supported. You are free to use the 3D data including modification, but please refrain from redistributing the data including derivatives.  
+
+Cover the top plate with the snap fit (claws).
+Connect the case to the pillar with a 2mm band to keep it from coming off.  
+
+![case snap](https://user-images.githubusercontent.com/3132296/146917573-4bb67aa8-68a3-4ec0-9f66-ae6a32ada06e.jpg)
+
+You can also paint it for fun!  
+
+![case](https://user-images.githubusercontent.com/3132296/146917817-20f95171-bd59-45ae-a27f-70b97efd56f8.jpg)
+
+## A1. appendix
+
+For troubleshooting and firmware modification.  
+
+### Disable USB storage in KMK Firmware. 　
+
+Rewrite boot.py with the following: USB storage will no longer be recognized when the USB is plugged and unplugged and reconnected.  
+Caution! If you modify it carelessly, you will need to recover from REPL or reinstall the firmware.  
+
+boot.py
+The following example uses the
+import storage
+import supervisor
+
+storage.disable_usb_drive()
+supervisor.set_next_stack_limit(4096 + 4096)
+```
+
+### Re-enable USB storage. 　
+
+[MU Editor download](https://codewith.mu/en/download)  
+Install it.  
+
+Connect the GRIN Type-R to the PC.  
+Start the Mu Editor.  
+Click the Serial button from the tool bar.  
+![mu1](https://user-images.githubusercontent.com/3132296/139570715-863a8d0e-bd0e-4078-bd58-74653904e181.png)
+
+Click the REPL pane and press "Ctrl+C".  
+![mu2](https://user-images.githubusercontent.com/3132296/139570725-34043950-0abd-4ff3-8fd7-a7b0392efc4c.png)
+
+Press "Enter".  
+![mu3](https://user-images.githubusercontent.com/3132296/139570730-8251d9de-786d-4ed5-adbd-70f82e0f3e97.png)
+
+Copy and paste the following code directly. (Don't type it in manually)  
+````
+import os
+import storage
+storage.remove('/', readonly=False)
+os.remove('boot.py')
+```!
+
+![mu4](https://user-images.githubusercontent.com/3132296/139570737-318f5c8b-f691-4309-be04-386b7738ed17.png)
+
+If you plug and unplug the USB of the GRIN Type-R and reconnect it, it will be recognized as a USB drive.  
+Since boot.py is missing from the drive, create boot.py with the following code.  
+
+boot.py
+The following code will create boot.py
+import supervisor
+
+supervisor.set_next_stack_limit(4096 + 4096)
+```
+
+### schematic  
+![schematic](https://user-images.githubusercontent.com/3132296/139060252-92dcc313-b126-41d9-8f86-858f542e6534.jpg)
+
+### Hints for problems with Circuit Python.  
+https://learn.adafruit.com/welcome-to-circuitpython/troubleshooting
 
