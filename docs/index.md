@@ -1,5 +1,7 @@
 # GRIN Type-R 組み立て手順
 
+English version is [hear](https://policium.github.io/grin-type-r/index_en).
+
 ## はじめに
 
 この度はGRIN Type-Rのご購入ありがとうございます。このキットははんだ付けとファームウェアの書き込み作業が必要です。以下の手順に従って組み立ててください。
