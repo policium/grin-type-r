@@ -24,6 +24,7 @@ TBD：互換確認済キーキャップ一覧
 １１．ボトムプレートの取り付け  
 １２．キーキャップの取り付け  
 １３．動作確認  
+１４．３Ｄプリントケース  
 Ａ１．付録  
 
 ## １．事前準備
@@ -209,7 +210,7 @@ USBケーブルでPCと接続し動作確認します。必要であればソー
 ## １４．３Ｄプリントケース
 
 BOOTHにログインした状態で購入履歴より該当の注文詳細にアクセスし、3Dデータをダウンロードしてください。  
-[JLCPCB](https://jlcpcb.com/)か[WENEXT](https://www.wenext.com/)か[DMM.make](https://make.dmm.com/print/)で印刷できます。  
+[JLCPCB](https://jlcpcb.com/)か[WENEXT](https://www.wenext.com/)か[DMM.make](https://make.dmm.com/print/)で印刷できます。HP MJF PA12 Nylon を推奨します。 
 もちろんご自宅の３Ｄプリンタで印刷することもできます。  
 
 注意！  
