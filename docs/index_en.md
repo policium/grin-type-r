@@ -233,6 +233,7 @@ For troubleshooting and firmware modification.
 Rewrite boot.py with the following: USB storage will no longer be recognized when the USB is plugged and unplugged and reconnected.  
 Caution! If you modify it carelessly, you will need to recover from REPL or reinstall the firmware.  
 
+```
 boot.py
 The following example uses the
 import storage
