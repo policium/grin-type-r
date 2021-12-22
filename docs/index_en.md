@@ -209,7 +209,7 @@ Please refer to [sample](https://github.com/policium/grin-type-r/tree/main/firmw
 ## 14. 3D printed case
 
 While logged in to BOOTH, access the relevant order details from your purchase history and download the 3D data.  
-You can print it at [JLCPCB](https://jlcpcb.com/), [WENEXT](https://www.wenext.com/), or [DMM.make](https://make.dmm.com/print/). HP MJF PA12 Nylon is recommended. HP MJF PA12 Nylon is recommended. 
+You can print it at [JLCPCB](https://jlcpcb.com/), or [WENEXT](https://www.wenext.com/). HP MJF PA12 Nylon is recommended. HP MJF PA12 Nylon is recommended. 
 Of course, you can also print it with your own 3D printer at home.  
 
 Note!  
