@@ -8,9 +8,9 @@ kbd.init_pins(
 kbd.add_layer :default, %i[
   KC_ESC    KC_1      KC_2      KC_3      KC_4      KC_5      KC_6      KC_7      KC_8      KC_9      KC_0      KC_MINS   KC_EQL    KC_INT3   KC_BSPC
   KC_TAB    KC_Q      KC_W      KC_E      KC_R      KC_T      KC_Y      KC_U      KC_I      KC_O      KC_P      KC_LBRC   KC_RBRC   KC_ENT    KC_PGUP
-  KC_CAPS   KC_A      KC_S      KC_D      KC_F      KC_G      KC_H      KC_J      KC_K      KC_L      KC_SCOLON KC_QUOT   KC_NONUS_HASH   XXXXXXX   KC_PGDN
+  KC_CAPS   KC_A      KC_S      KC_D      KC_F      KC_G      KC_H      KC_J      KC_K      KC_L      KC_SCOLON KC_QUOT   KC_NONUS_HASH   KC_ENT   KC_PGDN
   KC_LSFT   XXXXXXX   KC_Z      KC_X      KC_C      KC_V      KC_B      KC_N      KC_M      KC_COMM   KC_DOT    KC_SLSH   KC_INT1   KC_RSFT   KC_DEL
-  KC_LCTL   KC_LGUI   KC_LALT   XXXXXXX   LNG2_FUNC XXXXXXX   KC_SPC    XXXXXXX   LNG1_FUNC KC_RALT   KC_RCTL   KC_LEFT   KC_DOWN   KC_UP     KC_RGHT
+  KC_LCTL   KC_LGUI   KC_LALT   XXXXXXX   LNG2_FUNC KC_SPC    KC_SPC    KC_SPC    LNG1_FUNC KC_RALT   KC_RCTL   KC_LEFT   KC_DOWN   KC_UP     KC_RGHT
 ]
 
 kbd.add_layer :func, %i[
