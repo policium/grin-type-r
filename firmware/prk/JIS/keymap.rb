@@ -25,3 +25,4 @@ kbd.define_mode_key :LNG1_FUNC, [ :KC_LANG1, :func, 300, nil ]
 kbd.define_mode_key :LNG2_FUNC, [ :KC_LANG2, :func, 300, nil ]
 
 kbd.start!
+
