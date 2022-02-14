@@ -255,7 +255,7 @@ PRK FirmwareおよびKMK Firmwareを入れ替えたい場合や、バージョ�
 
 1. 事前にuf2ファイルをダウンロードします。
     - [PRK Firmware](https://github.com/picoruby/prk_firmware/releases/download/0.9.11/prk_firmware-0.9.11-20220122-cbb9502.uf2.zip)
-    - [KMK Firmware:CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/)
+    - [KMK Firmware(CircuitPython)](https://circuitpython.org/board/raspberry_pi_pico/)
 3. キーボードからUSBケーブルを抜きます。
 4. Raspberry Pi PocoのBOOTSELボタンを押しながら、USBケーブルを挿入します。
 5. RPI-RP2ドライブが認識されます。
@@ -263,14 +263,14 @@ PRK FirmwareおよびKMK Firmwareを入れ替えたい場合や、バージョ�
 7. 自動で再起動されます。
 
 ### PRK Firmwareの場合
-keymap.rbを以下のリンクからPRKFirmwareドライブにコピーします。
+keymap.rbを以下のリンクからPRKFirmwareドライブにコピーします。  
 [ANSI](https://github.com/policium/grin-type-r/blob/main/firmware/prk/ANSI/keymap.rb)
-[JIS](https://github.com/policium/grin-type-r/blob/main/firmware/prk/JIS/keymap.rb)
+/[JIS](https://github.com/policium/grin-type-r/blob/main/firmware/prk/JIS/keymap.rb)
 
 ### KMK Firmwareの場合
-kmkフォルダ、kb.py、main.pyを以下のリンクからCIRCUITPYドライブにコピーします。
+kmkフォルダ、kb.py、main.pyを以下のリンクからCIRCUITPYドライブにコピーします。  
 [ISO](https://github.com/policium/grin-type-r/blob/main/firmware/prk/ANSI/keymap.rb)
-[JIS](https://github.com/policium/grin-type-r/blob/main/firmware/prk/JIS/keymap.rb)
+/[JIS](https://github.com/policium/grin-type-r/blob/main/firmware/prk/JIS/keymap.rb)
 
 #### 標準のキーマップを参考にカスタマイズしてください！
 
