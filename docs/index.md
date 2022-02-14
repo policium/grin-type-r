@@ -245,8 +245,12 @@ https://github.com/policium/grin-type-r/tree/main/case
 
 ## １６．ファームウェアの書き込み
 
-通常ファームウェアが書き込まれた状態で出荷されますが、PRK FirmwareおよびKMK Firmwareを入れ替えたい場合や、バージョンアップしたい場合、クリアしたい場合に下記手順でファームウェアを書き込むことが出来ます。  
-※ファームウェアを書き込むと元のキーマップファイルはクリアされます。事前にバックアップしてください。
+通常ファームウェアが書き込まれた状態で出荷されますが、  
+PRK FirmwareおよびKMK Firmwareを入れ替えたい場合や、バージョンアップしたい場合、クリアしたい場合に  
+下記手順でファームウェアを書き込むことが出来ます。  
+
+#### ※ファームウェアを書き込むと元のキーマップファイルはクリアされます。事前にバックアップしてください。
+
 1. 事前にuf2ファイルをダウンロードします。
     - ![PRK Firmware](https://github.com/picoruby/prk_firmware/releases/download/0.9.11/prk_firmware-0.9.11-20220122-cbb9502.uf2.zip)
     - ![KMK Firmware:CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/)
