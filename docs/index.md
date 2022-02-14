@@ -27,6 +27,7 @@ English version is [hear](https://policium.github.io/grin-type-r/index_en).
 １３．キーキャップの取り付け  
 １４．動作確認  
 １５．３Ｄプリントケース  
+１６．ファームウェアの書き込み  
 Ａ１．付録  
 
 ## １．事前準備
