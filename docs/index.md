@@ -34,7 +34,7 @@ English version is [hear](https://policium.github.io/grin-type-r/index_en).
 ### 配列を決める
 GRIN Type-RはANSI・ISO・JIS配列と単体スペースバー・分割スペースバーの組み合わせを選べます。それぞれ必要なスイッチの数と必要なキーキャップが変わるため事前に決定する必要があります。
 
-![layout](https://user-images.githubusercontent.com/3132296/146913502-217302a7-877f-430a-b0cc-7842f74d1557.png)
+![layout](https://user-images.githubusercontent.com/3132296/173500743-ba10ca3d-bd34-4a8f-9377-574c00c230fb.png)
 
 ### キット以外に必要な部品を準備する
 - キーキャップ(Cherry MX互換) … 選択した配列に合わせる  
