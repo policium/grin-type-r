@@ -1,5 +1,6 @@
 # GRIN Type-R 組み立て手順
 
+GB版の組み立て手順は[こちら](https://policium.github.io/grin-type-r/index_en)。
 English version is [hear](https://policium.github.io/grin-type-r/index_en).
 
 ## はじめに
