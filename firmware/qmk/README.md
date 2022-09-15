@@ -1,3 +1,4 @@
+# Get Started
 1. Download uf2 file.
     [here](https://github.com/policium/grin-type-r/raw/main/firmware/qmk/grin_keebs_grin_type_r_via.uf2)  
 1. Unplug the USB cable from the keyboard.  
